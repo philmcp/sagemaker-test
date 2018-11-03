@@ -1,5 +1,0 @@
-2018-11-03 11:43:38,855	DEBUG	SparkMagics	Initialized spark magics.
-2018-11-03 11:43:38,856	INFO	EventsHandler	InstanceId: adaf52ad-79d3-496e-9d1b-81b0323b1a60,EventName: notebookLoaded,Timestamp: 2018-11-03 11:43:38.856892
-2018-11-03 11:43:38,857	DEBUG	python3_jupyter_kernel	Loaded magics.
-2018-11-03 11:43:38,858	DEBUG	python3_jupyter_kernel	Changed language.
-2018-11-03 11:43:39,126	DEBUG	python3_jupyter_kernel	Registered auto viz.
