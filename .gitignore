@@ -1,3 +1,2 @@
-.sparkmagic
-.bashrc
-.profile
+.*
+!/.gitignore
